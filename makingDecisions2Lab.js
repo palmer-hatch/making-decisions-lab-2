@@ -190,7 +190,7 @@ switch(lettergrade) {
     default:
       console.log('the student is doing excellently')
 }
-
+// to infinity and beyond
 
 ////////// PROBLEM 11 //////////
 /* The famous FizzBuzz, Devmountain style!
